@@ -1,5 +1,6 @@
 # 宜立方商城
-
+![输入图片说明](https://images.gitee.com/uploads/images/2020/0910/100616_e63ea486_800553.png "屏幕截图.png")
+![输入图片说明](https://images.gitee.com/uploads/images/2020/0910/100634_d218b49c_800553.png "屏幕截图.png")
 开发环境： eclipse+maven+svn+linux+easyui
 
 软件架构： mysql+mybatis+spring+springmvc+redis+solr
