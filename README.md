@@ -1,4 +1,10 @@
-# 宜立方商城
+## 宜立方商城
+
+### 交流方式：
+
+QQ技术交流群：863662849<a target="_blank" href="https://qm.qq.com/cgi-bin/qm/qr?k=9yLlyD1dRBL97xmBKw43zRt0-6xg8ohb&jump_from=webapi">
+<img border="0" src="//pub.idqqimg.com/wpa/images/group.png" alt="Java项目交流+求职面试" title="Java项目交流+求职面试"></a><a target="_blank" href="http://mail.qq.com/cgi-bin/qm_share?t=qm_mailme&email=f0hLSE9OTkdHTT8ODlEcEBI" style="text-decoration:none;"><img src="http://rescdn.qqmail.com/zh_CN/htmledition/images/function/qm_open/ico_mailme_02.png"/></a>
+
 ![输入图片说明](https://images.gitee.com/uploads/images/2020/0910/100616_e63ea486_800553.png "屏幕截图.png")
 ![输入图片说明](https://images.gitee.com/uploads/images/2020/0910/100634_d218b49c_800553.png "屏幕截图.png")
 开发环境： eclipse+maven+svn+linux+easyui
@@ -34,17 +40,3 @@
 6.Freemarker：FreeMarker是一个用Java语言编写的模板引擎，它基于模板来生成文本输出。FreeMarker与Web容器无关，即在Web运行时，它并不知道Servlet或HTTP。它不仅可以用作表现层的实现技术，而且还可以用于生成XML，JSP或Java 等。
 
 7.MyCAT：一个彻底开源的，面向企业应用开发的“大数据库集群”支持事务、ACID、可以替代Mysql的加强版数据库，可以低成本的将现有的单机数据库和应用平滑迁移到“云”端，解决数据存储和业务规模迅速增长情况下的数据瓶颈问题。
-
-### 交流方式：
-
-QQ技术交流群：863662849<a target="_blank" href="https://qm.qq.com/cgi-bin/qm/qr?k=9yLlyD1dRBL97xmBKw43zRt0-6xg8ohb&jump_from=webapi">
-<img border="0" src="//pub.idqqimg.com/wpa/images/group.png" alt="Java项目交流+求职面试" title="Java项目交流+求职面试"></a><a target="_blank" href="http://mail.qq.com/cgi-bin/qm_share?t=qm_mailme&email=f0hLSE9OTkdHTT8ODlEcEBI" style="text-decoration:none;"><img src="http://rescdn.qqmail.com/zh_CN/htmledition/images/function/qm_open/ico_mailme_02.png"/></a>
-
-![QQ技术交流群：863662849](https://images.gitee.com/uploads/images/2020/1022/145319_459f7be2_800553.png "QQ技术交流群.png")
-
-### 整理不易，欢迎各位白嫖star
-如果可以请各位大佬打赏一下，请我喝杯咖啡，资助一下云服务器，部署一个演示站点，感谢！！！
-
-![输入图片说明](https://images.gitee.com/uploads/images/2020/1022/152637_f80669f5_800553.jpeg "支付宝收钱码.jpg")
-
-![输入图片说明](https://images.gitee.com/uploads/images/2020/1022/152705_964cb145_800553.png "微信收钱码.png")
